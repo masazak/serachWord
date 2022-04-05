@@ -1,0 +1,8 @@
+D:\ALL FILES FOR MASA\visual studio\SearchWord\SearchWord\bin\Debug\SearchWord.exe.config
+D:\ALL FILES FOR MASA\visual studio\SearchWord\SearchWord\bin\Debug\SearchWord.exe
+D:\ALL FILES FOR MASA\visual studio\SearchWord\SearchWord\bin\Debug\SearchWord.pdb
+D:\ALL FILES FOR MASA\visual studio\SearchWord\SearchWord\obj\Debug\SearchWord.csproj.SuggestedBindingRedirects.cache
+D:\ALL FILES FOR MASA\visual studio\SearchWord\SearchWord\obj\Debug\SearchWord.csproj.CoreCompileInputs.cache
+D:\ALL FILES FOR MASA\visual studio\SearchWord\SearchWord\obj\Debug\SearchWord.exe
+D:\ALL FILES FOR MASA\visual studio\SearchWord\SearchWord\obj\Debug\SearchWord.pdb
+D:\ALL FILES FOR MASA\visual studio\SearchWord\SearchWord\obj\Debug\SearchWord.csproj.AssemblyReference.cache
